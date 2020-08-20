@@ -17,10 +17,7 @@ def
   
   # Build an array that contains (or, "nests") the constants into a single (Array).
   assembled_consts =
-  [
-    DON_G
-      
-  ]
+  [ DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G ]
   
   
 end
